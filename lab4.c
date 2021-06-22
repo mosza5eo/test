@@ -12,4 +12,5 @@ int addTen(int x)
      //fucntion call
     int y=addTen(x);
     printf("x=%d,y=%d/n",x,y);
+    printf("sothi");
  }
