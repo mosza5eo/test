@@ -45,5 +45,6 @@ int main()
     char str[100];
     scanf("%s", str);
     printSTR(str);
+    printf("mamo");
 
 }
